@@ -1,0 +1,10 @@
+body {
+  background-color: #4CAF50;
+  color:white;
+  font-family: serif;
+
+}
+#profile-img {
+  border-radius: 50%;
+  border: 3px solid white;
+}
